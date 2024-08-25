@@ -13,7 +13,7 @@
  <div align="center">
         <td align="center">
             <img align="center"
-                src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=yasintha8&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10" />
+                src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=ruvindya28&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10" />
             <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width=250px>
         </td>
     </div><br>
@@ -22,7 +22,7 @@
     </div><br><br>
  <div align="center">
 <h2>Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
-<a href = 'https://www.linkedin.com/in/yasintha-chamikara-0493392b2/'> <img width = '40px' align='center'src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a> 
+<a href = 'https://www.linkedin.com/in/sachini-ruvindya-535266259/'> <img width = '40px' align='center'src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a> 
 <a href = 'https://github.com/ruvindya28'> <img width = '40px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a><br><br>
 
 
